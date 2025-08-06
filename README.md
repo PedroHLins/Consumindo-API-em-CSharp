@@ -44,12 +44,12 @@ O projeto oferece as seguintes funcionalidades diretamente no terminal:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone 
+    git clone https://github.com/PedroHLins/Consumindo-API-em-CSharp.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd 
+    cd ConsumindoAPI
     ```
 
 3.  **Execute a aplicação:**
